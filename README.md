@@ -1,3 +1,5 @@
+![Cover](./cover.png)
+
 # Google Ads Transparency & Creative Spy — REST API & MCP Server
 
 [![Google Ads Transparency MCP connector](https://glama.ai/mcp/connectors/io.github.yun87457-web/google-ads-transparency-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yun87457-web/google-ads-transparency-mcp)
