@@ -64,3 +64,35 @@ Import the ready-to-run workflow (**Weekly Competitor Google Ads & EU DSA Creati
 - [Google Ads Competitor Creative & Ad Copy Tracker](https://apify.com/spiky_closet/google-ads-transparency-scraper/examples/google-ads-competitor-creative-tracker)
 - [EU DSA Google Ads Reach, Targeting & Payer Extractor](https://apify.com/spiky_closet/google-ads-transparency-scraper/examples/eu-dsa-google-ads-reach-extractor)
 - [B2B Domain Google Ads Spend Signal Checker (Bulk)](https://apify.com/spiky_closet/google-ads-transparency-scraper/examples/b2b-domain-google-ads-spend-checker)
+## Live Interactive Top-100 Benchmark (Nov 2026)
+
+Explore our live open dataset of **100 major SaaS, AI & DTC brands** screened via Google Ads Transparency Center (`22.46s` total batch runtime, `0` errors):
+- **Interactive Web Explorer:** https://yun87457-web.github.io/google-ads-transparency-mcp/
+- **Open Downloads (MIT):** [`benchmarks/top-100-nov-2026.csv`](./benchmarks/top-100-nov-2026.csv) · [`benchmarks/top-100-nov-2026.json`](./benchmarks/top-100-nov-2026.json)
+- **Key Findings:** `97%` active verified Google advertisers, `72%` running YouTube `VIDEO` ads, led by Shopify (`70k–80k` active creatives) and GoDaddy (`60k–70k`).
+
+## Install & Run Locally (Stdio MCP Server — Zero Dependencies)
+
+Run directly in Claude Desktop, Cursor, Windsurf, or Cline using Node.js 18+ (supports either `APIFY_TOKEN` or `RAPIDAPI_KEY`):
+
+```bash
+npx -y github:yun87457-web/google-ads-transparency-mcp
+```
+
+```json
+{
+  "mcpServers": {
+    "google-ads-transparency": {
+      "command": "npx",
+      "args": ["-y", "github:yun87457-web/google-ads-transparency-mcp"],
+      "env": { "RAPIDAPI_KEY": "YOUR_FREE_RAPIDAPI_KEY" }
+    }
+  }
+}
+```
+
+## No-Code Recipes (n8n, Make.com & Clay)
+
+- **n8n Workflow JSON:** [`n8n-template.json`](./n8n-template.json) (and community node scaffold in [`n8n-community-node/`](./n8n-community-node/))
+- **Clay HTTP Enrichment:** [`integrations/clay-http-enrichment.json`](./integrations/clay-http-enrichment.json)
+- **Make.com HTTP Module:** [`integrations/make-http-module.json`](./integrations/make-http-module.json)

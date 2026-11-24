@@ -1,0 +1,16 @@
+{
+  "provider": "AdPulse Google Ads Transparency API",
+  "method": "GET",
+  "endpoint": "https://google-ads-transparency-creative-spy.p.rapidapi.com/search?query={{Domain}}&maxResults=10",
+  "headers": {
+    "x-rapidapi-key": "{{YOUR_RAPIDAPI_KEY}}",
+    "x-rapidapi-host": "google-ads-transparency-creative-spy.p.rapidapi.com"
+  },
+  "extract_fields": [
+    "hasActiveAds",
+    "advertiserName",
+    "approxAdCountHigh",
+    "formatsObserved",
+    "transparencyUrl"
+  ]
+}

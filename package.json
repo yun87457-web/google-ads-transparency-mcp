@@ -1,0 +1,32 @@
+{
+  "name": "adpulse-google-ads-transparency-mcp",
+  "version": "1.1.0",
+  "description": "Installable MCP server for Google Ads Transparency Center: search active Google Search, YouTube & Display ad creatives, formats, advertiser details, and EU DSA reach bounds.",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "google-ads-transparency-mcp": "./bin/mcp.mjs"
+  },
+  "files": [
+    "bin/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "google-ads",
+    "ads-transparency",
+    "ad-intelligence",
+    "competitor-research",
+    "ppc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yun87457-web/google-ads-transparency-mcp.git"
+  },
+  "homepage": "https://yun87457-web.github.io/google-ads-transparency-mcp/"
+}

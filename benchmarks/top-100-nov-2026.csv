@@ -1,0 +1,101 @@
+domain,advertiserName,country,hasActiveAds,verified,approxAdCountHigh,formats,linkUrl
+shopify.com,Shopify Inc.,CA,True,True,80000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR01625195283841286145
+hubspot.com,"Hubspot, Inc.",US,True,True,4000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR10072600183532683265
+monday.com,monday.com LTD,IL,True,True,30000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR15972262369074085889
+notion.so,Notion Labs Japan合同会社,JP,True,True,9,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR10888897372843147265
+figma.com,Figma INC,US,True,True,2000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR15466204033491927041
+canva.com,"Canva, Pty Ltd",AU,True,True,50000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR06374349942554624001
+stripe.com,"Stripe, Inc.",US,True,True,9000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR16951989901585285121
+datadoghq.com,"DATADOG, INC.",US,True,True,10000,IMAGE|TEXT,https://adstransparency.google.com/advertiser/AR02089091059349979137
+snowflake.com,Snowflake Inc.,US,True,True,5000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR00247099845179867137
+klaviyo.com,"Klaviyo, Inc.",US,True,True,10000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR04797655903320932353
+webflow.com,"Webflow, Inc.",US,True,True,800,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR09235891144968110081
+airtable.com,FORMAGRID INC,US,True,True,2000,IMAGE|TEXT,https://adstransparency.google.com/advertiser/AR07036709559741710337
+miro.com,"RealtimeBoard, Inc.",US,True,True,7000,TEXT,https://adstransparency.google.com/advertiser/AR07033844232439726081
+asana.com,"Asana, Inc.",US,True,True,8000,TEXT,https://adstransparency.google.com/advertiser/AR06554691289986629633
+clickup.com,"Mango Technologies, Inc.",US,True,True,30000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR15602211594623254529
+semrush.com,Semrush INC,US,True,True,30000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR12174930187514806273
+ahrefs.com,Ahrefs Pte. Ltd.,SG,True,True,300,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR04431700826863435777
+brex.com,Brex Inc.,US,True,True,300,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR03698062911684476929
+ramp.com,Ramp Business Corporation,US,True,True,4000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR11909113871291383809
+rippling.com,"People Center, Inc.",US,True,True,3000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR04272792311131275265
+deel.com,"Deel, Inc.",US,True,True,10000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR11852668242856247297
+gusto.com,"GUSTO CALIFORNIA, INC.",US,True,True,1000,IMAGE|TEXT,https://adstransparency.google.com/advertiser/AR05137263983937454081
+mercury.com,"Mercury Technologies, Inc",US,True,True,70,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR17481053353315139585
+zapier.com,"Zapier, Inc",US,True,True,2000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR07656268315995668481
+make.com,"Celonis, Inc.",US,True,True,2000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR03076811079322435585
+n8n.io,n8n GmbH,DE,True,True,200,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR08547010688843776001
+mailchimp.com,Mailchimp,US,True,True,5000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR17766143077581324289
+activecampaign.com,ACTIVECAMPAIGN LLC,US,True,True,500,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR08985291073240694785
+intercom.com,"Intercom, Inc.",US,True,True,2000,TEXT,https://adstransparency.google.com/advertiser/AR04064923624946008065
+zendesk.com,Depop Limited,GB,True,True,6000,TEXT,https://adstransparency.google.com/advertiser/AR08913149916319055873
+freshworks.com,Freshworks Inc.,US,True,True,5000,IMAGE|TEXT,https://adstransparency.google.com/advertiser/AR03035893441289519105
+pipedrive.com,Pipedrive Inc.,US,True,True,20000,TEXT,https://adstransparency.google.com/advertiser/AR08924170183925301249
+apollo.io,ZenLeads Inc.,US,True,True,2000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR17882138960151445505
+gong.io,Gong.io Inc,US,True,True,1000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR14106062795078369281
+loom.com,Kyle Harris,US,True,True,1,TEXT,https://adstransparency.google.com/advertiser/AR12719466628295688193
+calendly.com,"Siam Legal (Thailand) Co., Ltd.",TH,True,True,9000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR03942757918775967745
+typeform.com,TYPEFORM SL,ES,True,True,20000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR02806292048787800065
+surveymonkey.com,SurveyMonkey Inc.,US,True,True,2000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR14432635478152839169
+docusign.com,"DocuSign, Inc",US,True,True,3000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR04932188435243859969
+pandadoc.com,"PandaDoc, Inc.",US,True,True,3000,IMAGE|TEXT,https://adstransparency.google.com/advertiser/AR11276663135043321857
+dropbox.com,"DROPBOX, INC.",US,True,True,3000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR09870844747638112257
+box.com,Box Inc.,LU,True,True,2000,TEXT,https://adstransparency.google.com/advertiser/AR02472585321955459073
+grammarly.com,Superhuman Platform Inc.,US,True,True,40000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR05288677867637440513
+jasper.ai,"JASPER AI, INC.",US,True,True,53,IMAGE|TEXT,https://adstransparency.google.com/advertiser/AR06733320165238243329
+copy.ai,—,—,False,False,0,,https://copy.ai
+synthesia.io,Synthesia Limited,GB,True,True,700,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR06351229205887320065
+elevenlabs.io,Eleven Labs Inc.,US,True,True,6000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR03192903667376193537
+runwayml.com,"Runway AI, Inc.",US,True,True,49,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR06180624317387112449
+perplexity.ai,"Perplexity AI, Inc.",US,True,True,1000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR03373525716690796545
+cursor.com,"ANYSPHERE, INC.",US,True,True,7000,TEXT,https://adstransparency.google.com/advertiser/AR14589023080010481665
+vercel.com,Vercel Inc.,US,True,True,300,TEXT,https://adstransparency.google.com/advertiser/AR03920035274037395457
+netlify.com,"Netlify, Inc.",US,True,True,200,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR10817806696202633217
+supabase.com,"Supabase, Inc.",US,True,True,18,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR07679031522405384193
+cloudflare.com,Just Media Inc,US,True,True,4000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR16258372337051631617
+sentry.io,Functional Software Inc.,US,True,True,6000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR02148033420993757185
+posthog.com,PostHog Inc.,US,True,True,500,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR09373539710024024065
+mixpanel.com,"Mixpanel, Inc.",US,True,True,300,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR03511807840962478081
+amplitude.com,Amplitude Inc.,US,True,True,900,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR10760076838186254337
+segment.com,"Segment.io, Inc.",US,True,True,97,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR08520514314040246273
+braze.com,Braze Inc.,US,True,True,1000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR08849712493442891777
+attentive.com,ATTENTIVE MOBILE INC.,US,True,True,49,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR15664325308578791425
+gorgias.com,Gorgias Inc,US,True,True,200,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR00976678071371300865
+rechargepayments.com,—,—,False,False,0,,https://rechargepayments.com
+yotpo.com,Yotpo LTD,IL,True,True,200,TEXT,https://adstransparency.google.com/advertiser/AR01517745166419492865
+triplewhale.com,Triple Whale Inc.,US,True,True,400,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR07615496878649507841
+northbeam.io,North Beam Inc,US,True,True,94,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR08434396783781609473
+gymshark.com,Gymshark Ltd,GB,True,True,20000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR05501100765344694273
+allbirds.com,Allbirds Inc,US,True,True,800,IMAGE|TEXT,https://adstransparency.google.com/advertiser/AR01371945870127267841
+glossier.com,Glossier Inc.,US,True,True,2000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR03649379148146671617
+warbyparker.com,Warby Parker Inc.,US,True,True,5000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR06277634425874284545
+casper.com,Casper Sleep Inc.,US,True,True,700,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR01473138048400097281
+brooklinen.com,"Brooklinen, Inc.",US,True,True,4000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR01579447628666503169
+awaytravel.com,"JRSK, Inc.",US,True,True,2000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR17453188498851889153
+bombas.com,Bombas LLC,US,True,True,4000,IMAGE|TEXT,https://adstransparency.google.com/advertiser/AR15895471377478582273
+ruggable.com,Ruggable LLC,US,True,True,3000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR08643105462490759169
+vuoriclothing.com,"Vuori, Inc.",US,True,True,1000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR04810021938799837185
+aloyoga.com,Mobfast Technology,IN,True,True,7000,IMAGE|TEXT,https://adstransparency.google.com/advertiser/AR00001057077350891521
+drinkag1.com,AG1 UK ENTERPRISE LTD,GB,True,True,5000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR12838504988388884481
+huel.com,Huel Limited,GB,True,True,700,TEXT,https://adstransparency.google.com/advertiser/AR13378536979138871297
+ouraring.com,Ouraring Inc,US,True,True,4000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR07859889571582967809
+whoop.com,"Whoop, Inc.",US,True,True,5000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR15516041047288315905
+onepeloton.com,Peloton Interactive UK Limited,GB,True,True,5000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR02499754254277804033
+squarespace.com,Squarespace Ireland Limited,IE,True,True,20000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR04699893239254089729
+wix.com,WIX.COM LTD.,IL,True,True,50000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR05773566893533167617
+godaddy.com,"GoDaddy.com, LLC",US,True,True,70000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR08602453631393857537
+namecheap.com,"Namecheap, Inc.",US,True,True,2000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR12039459359856525313
+hostinger.com,Hostinger International ltd.,CY,True,True,50000,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR17569312491706515457
+digitalocean.com,"DigitalOcean, LLC",US,True,True,1000,TEXT,https://adstransparency.google.com/advertiser/AR16111588221938302977
+render.com,"Render Services, Inc.",US,True,True,56,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR10139380362275454977
+railway.com,CTY TNHH NEFLINK,VN,True,True,4,TEXT,https://adstransparency.google.com/advertiser/AR01863440289436270593
+fly.io,"FLY.IO, INC.",US,True,True,200,IMAGE|TEXT,https://adstransparency.google.com/advertiser/AR04217171677194223617
+neon.tech,—,—,False,False,0,,https://neon.tech
+pinecone.io,"Pinecone Systems, Inc.",US,True,True,47,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR05250216366782283777
+retool.com,"Retool, Inc.",US,True,True,3000,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR01566945013227585537
+clay.com,Clay Labs,US,True,True,200,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR02473231714533507073
+attio.com,Attio Limited,GB,True,True,700,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR11391532018194972673
+linear.app,"Linear Orbit, Inc.",US,True,True,25,TEXT,https://adstransparency.google.com/advertiser/AR13568824525935607809
+cal.com,ChatFeatured Inc.,CA,True,True,500,TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR12617382127617441793
+mintlify.com,"Mintlify, Inc",US,True,True,500,IMAGE|TEXT|VIDEO,https://adstransparency.google.com/advertiser/AR05741980827865055233
+resend.com,SHUKHRAT ROZAKHUNOV,KZ,True,True,1,TEXT,https://adstransparency.google.com/advertiser/AR11208391099410284545

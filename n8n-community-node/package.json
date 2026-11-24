@@ -1,0 +1,19 @@
+{
+  "name": "n8n-nodes-adpulse-google-ads",
+  "version": "1.0.0",
+  "description": "n8n community node & workflow bundle for AdPulse \u2014 Google Ads Transparency MCP Server",
+  "keywords": [
+    "n8n-community-node-package",
+    "n8n",
+    "mcp",
+    "model-context-protocol",
+    "google-ads",
+    "ads-transparency"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yun87457-web/google-ads-transparency-mcp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yun87457-web/google-ads-transparency-mcp.git"
+  }
+}
