@@ -1,6 +1,6 @@
 {
   "name": "adpulse-google-ads-transparency-mcp",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Installable MCP server for Google Ads Transparency Center: search active Google Search, YouTube & Display ad creatives, formats, advertiser details, and EU DSA reach bounds.",
   "type": "module",
   "license": "MIT",
