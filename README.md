@@ -10,12 +10,16 @@ Query active Google Search, YouTube, and Display ad creatives, formats, advertis
 ### Official BigQuery Dataset vs. Live Transparency Center RPC
 Google publishes an official public BigQuery dataset (`bigquery-public-data.google_ads_transparency_center`), which is a great free option for bulk historical SQL analysis — **but its commercial ad coverage is limited to the EEA (30 countries) and Türkiye** (plus political ads):
 
-| Capability | Official Google BigQuery Dataset | This Live RPC Engine (`v1.4.1`) |
+| Capability | Official Google BigQuery Dataset | This Live RPC Engine (`v1.4.2`) |
 |---|---|---|
 | **US, UK, CA, AU, JP, KR & `220+` Global Commercial Ads** | ❌ Not included (EEA + Türkiye only) | ✅ **Full worldwide coverage (`US`, `GB`, `CA`, `JP`, `KR`, `ANYWHERE`)** |
 | **EEA (30) + Türkiye (`TR`) Regulatory Disclosure Scope** | ✅ Official bulk historical SQL | ✅ **Real-time via `region: "EEA+TR"`, `"EU"`, `"EEA"`, or `"Türkiye"`** |
 | **Same-Day Launches & Structured Search Copy / Landing URLs** | ❌ Snapshot lag, unparsed preview JS | ✅ **Real-time (`<300ms`) + `adHeadline`/`adDescription`/`destinationUrl`** |
 | **Bulk Multi-TB Historical SQL (EEA + Türkiye)** | ✅ Use BigQuery directly! | ⚠️ Built for targeted domain/competitor & AI agent MCP workflows |
+
+### Explicit Recency Windows & CRM Match Confidence (`v1.4.2`)
+- **No ambiguous "active" counts:** `screeningMode: true` (`check_domains_running_ads` / `POST /screen`) emits `dateWindowApplied` (`ANYTIME`, `LAST_30_DAYS (...)`, or `YYYY-MM-DD..YYYY-MM-DD`), `countScope` (`indexed_creatives_in_window`), `daysSinceLastShown`, and `activityStatus` (`active_7d` | `recent_30d` | `historical` | `none`) so downstream CRMs distinguish ads served this week from archived creatives.
+- **CRM match confidence before writing records:** Every screening row includes `matchConfidence` (`high` | `medium` | `low`), `matchConfidenceScore` (`0.00–1.00`), `matchReason` (e.g. `direct_domain_verified_single_entity`, `direct_domain_verified_multi_entity`, `brand_subsidiary_word_boundary_verified`), `primaryAdvertiserShare`, and the full `advertisersObserved` breakdown when a domain has multiple regional subsidiaries (e.g., `Notion Labs, Inc.` + `Notion Labs Japan`).
 
 ## Access Channels
 
