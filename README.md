@@ -81,10 +81,10 @@ Import the ready-to-run workflow (**Weekly Competitor Google Ads & EU DSA Creati
 - [B2B Domain Google Ads Spend Signal Checker (Bulk)](https://apify.com/spiky_closet/google-ads-transparency-scraper/examples/b2b-domain-google-ads-spend-checker)
 ## Live Interactive Top-100 Benchmark (Nov 2026)
 
-Explore our live open dataset of **100 major SaaS, AI & DTC brands** screened via Google Ads Transparency Center (`22.46s` total batch runtime, `0` errors):
+Explore our live **30-day (`LAST_30_DAYS (2026-10-27..2026-11-25)`)** open dataset of **100 major SaaS, AI & DTC brands** screened via Google Ads Transparency Center (`8.08s` total batch runtime, `0` errors):
 - **Interactive Web Explorer:** https://yun87457-web.github.io/google-ads-transparency-mcp/
 - **Open Downloads (MIT):** [`benchmarks/top-100-nov-2026.csv`](./benchmarks/top-100-nov-2026.csv) · [`benchmarks/top-100-nov-2026.json`](./benchmarks/top-100-nov-2026.json)
-- **Key Findings:** `97%` active verified Google advertisers, `72%` running YouTube `VIDEO` ads, led by Shopify (`70k–80k` active creatives) and GoDaddy (`60k–70k`).
+- **Key Findings (`LAST_30_DAYS`, `countScope: indexed_creatives_in_window`):** `91%` active in the last 30 days (`79/91` High-Confidence CRM matches, `12` multi-entity/shared domains flagged Medium), `68%` running YouTube `VIDEO` ads, led by Shopify (`50k–60k` 30d indexed creatives) and GoDaddy (`20k–30k`).
 
 ## Install & Run Locally (Stdio MCP Server — Zero Dependencies)
 
