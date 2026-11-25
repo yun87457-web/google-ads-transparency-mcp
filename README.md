@@ -3,8 +3,19 @@
 # Google Ads Transparency & Creative Spy — REST API & MCP Server
 
 [![Google Ads Transparency MCP connector](https://glama.ai/mcp/connectors/io.github.yun87457-web/google-ads-transparency-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yun87457-web/google-ads-transparency-mcp)
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/yun87457-web/google-ads-transparency-mcp)
 
 Query active Google Search, YouTube, and Display ad creatives, formats, advertiser details, and EU DSA reach/impression bounds by domain or advertiser name — without headless browsers or proxies.
+
+### Official BigQuery Dataset vs. Live Transparency Center RPC
+Google publishes an official public BigQuery dataset (`bigquery-public-data.google_ads_transparency_center`), which is a great free option for bulk historical SQL analysis — **but its commercial ad coverage is limited to the EEA (30 countries) and Türkiye** (plus political ads):
+
+| Capability | Official Google BigQuery Dataset | This Live RPC Engine (`v1.4.1`) |
+|---|---|---|
+| **US, UK, CA, AU, JP, KR & `220+` Global Commercial Ads** | ❌ Not included (EEA + Türkiye only) | ✅ **Full worldwide coverage (`US`, `GB`, `CA`, `JP`, `KR`, `ANYWHERE`)** |
+| **EEA (30) + Türkiye (`TR`) Regulatory Disclosure Scope** | ✅ Official bulk historical SQL | ✅ **Real-time via `region: "EEA+TR"`, `"EU"`, `"EEA"`, or `"Türkiye"`** |
+| **Same-Day Launches & Structured Search Copy / Landing URLs** | ❌ Snapshot lag, unparsed preview JS | ✅ **Real-time (`<300ms`) + `adHeadline`/`adDescription`/`destinationUrl`** |
+| **Bulk Multi-TB Historical SQL (EEA + Türkiye)** | ✅ Use BigQuery directly! | ⚠️ Built for targeted domain/competitor & AI agent MCP workflows |
 
 ## Access Channels
 

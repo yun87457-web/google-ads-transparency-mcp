@@ -12,7 +12,7 @@
 import readline from "node:readline";
 
 const SERVER_NAME = "adpulse-google-ads-transparency-mcp";
-const SERVER_VERSION = "1.1.1";
+const SERVER_VERSION = "1.1.2";
 const APIFY_MCP_URL = process.env.MCP_ENDPOINT_OVERRIDE || "https://spiky-closet--google-ads-transparency-scraper.apify.actor/mcp";
 const APIFY_URL = "https://apify.com/spiky_closet/google-ads-transparency-scraper";
 const RAPIDAPI_URL = "https://rapidapi.com/HYunLe/api/google-ads-transparency-creative-spy";
@@ -97,7 +97,7 @@ const TOOLS = [
           "type": "string"
         },
         "region": {
-          "description": "Optional ISO-3166-1 alpha-2 country code ('US', 'GB', 'DE', 'KR'), macro ('EU', 'EEA'), English country name ('Germany'), or 'ANYWHERE'.",
+          "description": "Optional ISO-3166-1 alpha-2 country code ('US', 'GB', 'DE', 'TR', 'KR'), macro ('EU', 'EEA', 'EEA+TR'), English/Unicode country name ('Germany', 'T\u00fcrkiye'), or 'ANYWHERE'. Unlike Google's official BigQuery dataset (EEA + T\u00fcrkiye only), this RPC engine supports US and 220+ global markets.",
           "type": "string"
         },
         "sortBy": {
