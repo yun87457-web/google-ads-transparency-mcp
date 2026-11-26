@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yun87457-web.github.io/google-ads-transparency-mcp/sitemap.xml
