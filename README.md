@@ -2,6 +2,7 @@
 
 # Google Ads Transparency & Creative Spy — REST API & MCP Server
 
+[![yun87457-web/google-ads-transparency-mcp MCP server](https://glama.ai/mcp/servers/yun87457-web/google-ads-transparency-mcp/badges/score.svg)](https://glama.ai/mcp/servers/yun87457-web/google-ads-transparency-mcp)
 [![Google Ads Transparency MCP connector](https://glama.ai/mcp/connectors/io.github.yun87457-web/google-ads-transparency-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yun87457-web/google-ads-transparency-mcp)
 [![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/yun87457-web/google-ads-transparency-mcp)
 
