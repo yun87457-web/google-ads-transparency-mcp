@@ -5,7 +5,8 @@
   "type": "module",
   "license": "MIT",
   "bin": {
-    "google-ads-transparency-mcp": "./bin/mcp.mjs"
+    "google-ads-transparency-mcp": "bin/mcp.mjs",
+    "adpulse-google-ads-transparency-mcp": "bin/mcp.mjs"
   },
   "files": [
     "bin/",
@@ -26,7 +27,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yun87457-web/google-ads-transparency-mcp.git"
+    "url": "git+https://github.com/yun87457-web/google-ads-transparency-mcp.git"
   },
   "homepage": "https://yun87457-web.github.io/google-ads-transparency-mcp/",
   "mcpName": "io.github.yun87457-web/google-ads-transparency-mcp"
