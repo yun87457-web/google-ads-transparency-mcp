@@ -4,7 +4,7 @@
   "title": "Google Ads Transparency Scraper & MCP Server",
   "description": "Real-time Google Ads Transparency MCP: Search/YouTube creatives, EU DSA reach & domain checks.",
   "repository": {
-    "url": "https://github.com/yun87457-web/adpulse-mcp-servers",
+    "url": "https://github.com/yun87457-web/google-ads-transparency-mcp",
     "source": "github"
   },
   "version": "1.4.2",
